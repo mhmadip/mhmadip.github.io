@@ -1,0 +1,37 @@
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 1px;
+	color:red;
+} 
+
+.header{
+	background-color:#1abc9c;
+}
+
+	
+	h3{
+		color:#ffffff;
+		text-align:center;
+	}
+	
+	li{
+		color:#ffffff;
+	}
+	
+.bg-4 { 
+    background-color: #2f2f2f;
+    color: #ffffff;
+}
+footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+	
+	
+}
+
+
